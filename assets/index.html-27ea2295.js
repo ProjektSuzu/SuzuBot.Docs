@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"SuzuBot","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1674235910000,"contributors":[{"name":"AkulaKirov","email":"photonspk@gmail.com","commits":1}]},"filePathRelative":"guide/index.md"}');export{e as data};

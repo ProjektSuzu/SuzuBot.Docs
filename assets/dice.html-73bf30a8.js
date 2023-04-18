@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-74e37383","path":"/module/useful/dice.html","title":"骰子","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"普通掷骰","slug":"普通掷骰","link":"#普通掷骰","children":[]}],"git":{"updatedTime":1674235910000,"contributors":[{"name":"AkulaKirov","email":"photonspk@gmail.com","commits":1}]},"filePathRelative":"module/useful/dice.md"}');export{e as data};

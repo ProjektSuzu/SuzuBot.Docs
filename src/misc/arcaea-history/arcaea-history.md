@@ -32,7 +32,7 @@
 先后完成了 `Best` `Recent` `SongInfo` `SongScore` 等常用图查功能
 
 <details> <summary>第二版本 Recent</summary>
-<img src="./recent2 .jpg"/>
+<img src="./recent2.jpg"/>
 </details>
 
 实验性的添加了 `Recommend` 推荐推歌功能

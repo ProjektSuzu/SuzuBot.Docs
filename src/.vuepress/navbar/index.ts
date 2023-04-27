@@ -8,4 +8,9 @@ export const myNavbar = navbar([
     icon: "layer-group",
     link: "/module/"
   },
+  {
+    text: "其他",
+    icon: "book",
+    link: "/misc/"
+  }
   ]);

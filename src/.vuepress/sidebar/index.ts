@@ -17,4 +17,12 @@ export const mySidebar = sidebar([
     collapsible: true,
     children: "structure"
   },
+  {
+    text: "其他",
+    link: "/misc/",
+    prefix: "/misc/",
+    activeMatch: "^/misc/*",
+    collapsible: true,
+    children: "structure"
+  },
 ]);

@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as n,Z as e,$ as o}from"./framework-2fa9826b.js";const s={},c=e("h1",{id:"其他",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#其他","aria-hidden":"true"},"#"),o(" 其他")],-1),r=e("p",null,"关于 SuzuBot 的一些信息",-1),_=[c,r];function d(i,l){return a(),n("div",null,_)}const u=t(s,[["render",d],["__file","index.html.vue"]]);export{u as default};

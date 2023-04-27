@@ -1,0 +1,4 @@
+import{_ as t,X as n,Y as s,Z as e,$ as d,a0 as i,a1 as r,F as c}from"./framework-2fa9826b.js";const o={},l={id:"签到",tabindex:"-1"},p=e("a",{class:"header-anchor",href:"#签到","aria-hidden":"true"},"#",-1),_=r(`<p>提供签到和每日运势信息</p><h2 id="签到-1" tabindex="-1"><a class="header-anchor" href="#签到-1" aria-hidden="true">#</a> 签到</h2><p>进行当天的每日签到，获取 SuzuCoin 和经验值</p><p>一人一天只能签到一次，每天的签都是唯一的</p><p>连续 7 天签到和当日首签有额外奖励</p><p>用法:</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>/sign
+/签到
+/打卡
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,7);function h(u,m){const a=c("Badge");return n(),s("div",null,[e("h1",l,[p,d(" 签到 "),i(a,{type:"tip",text:"稳定",vertical:"middle"})]),_])}const x=t(o,[["render",h],["__file","sign.html.vue"]]);export{x as default};

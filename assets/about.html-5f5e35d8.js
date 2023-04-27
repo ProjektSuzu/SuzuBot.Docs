@@ -1,1 +1,0 @@
-import{_ as t,X as a,Y as o,Z as e,$ as s}from"./framework-ea2b8a12.js";const c={},r=e("h1",{id:"关于-suzubot",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#关于-suzubot","aria-hidden":"true"},"#"),s(" 关于 SuzuBot")],-1),n=[r];function _(u,d){return a(),o("div",null,n)}const h=t(c,[["render",_],["__file","about.html.vue"]]);export{h as default};

@@ -12,6 +12,6 @@ hero:
       link: /introduction
     - theme: alt
       text: 模块列表
-      link: /modules
+      link: /module
 ---
 

@@ -46,7 +46,13 @@ export default defineConfig({
             text: 'LoliconAPI 色图', collapsed: true, items: [
               { text: 'LoliconAPI 色图', link: '/module/LoliconApiSetu/Setu' }
             ]
-          }, 
+          },
+          {
+            text: '表情包', collapsed: true, items: [
+              { text: '天宫心', link: '/module/Sticker/Amamya' },
+              { text: '丁真', link: '/module/Sticker/Dingzhen' },
+            ]
+          },
           {
             text: '塔罗牌', collapsed: true, items: [
               { text: '抽塔罗牌', link: '/module/TarotCard/SlotTarot' }

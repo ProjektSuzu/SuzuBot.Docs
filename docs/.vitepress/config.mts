@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SuzuBot.Docs",
   description: "多功能 QQ 机器人",
-  base: '/SuzuBot.Docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

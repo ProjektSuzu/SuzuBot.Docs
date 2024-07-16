@@ -48,6 +48,11 @@ export default defineConfig({
             ]
           },
           {
+            text: '电棍语音', collapsed: true, items: [
+              { text: '电棍语音', link: '/module/OttoVoice/Otto' }
+            ]
+          },
+          {
             text: '表情包', collapsed: true, items: [
               { text: '天宫心', link: '/module/Sticker/Amamya' },
               { text: '丁真', link: '/module/Sticker/Dingzhen' },

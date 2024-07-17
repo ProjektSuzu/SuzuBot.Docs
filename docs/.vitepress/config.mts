@@ -56,6 +56,7 @@ export default defineConfig({
             text: '表情包', collapsed: true, items: [
               { text: '天宫心', link: '/module/Sticker/Amamya' },
               { text: '丁真', link: '/module/Sticker/Dingzhen' },
+              { text: '龙图', link: '/module/Sticker/Dragon' },
             ]
           },
           {
